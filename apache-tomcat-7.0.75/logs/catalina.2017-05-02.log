@@ -1,0 +1,94 @@
+may 02, 2017 11:47:03 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMACIÓN: Server version:        Apache Tomcat/7.0.75
+may 02, 2017 11:47:03 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMACIÓN: Server built:          Jan 18 2017 20:54:42 UTC
+may 02, 2017 11:47:03 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMACIÓN: Server number:         7.0.75.0
+may 02, 2017 11:47:03 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMACIÓN: OS Name:               Windows 8.1
+may 02, 2017 11:47:03 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMACIÓN: OS Version:            6.3
+may 02, 2017 11:47:03 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMACIÓN: Architecture:          amd64
+may 02, 2017 11:47:03 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMACIÓN: Java Home:             C:\Program Files\Java\jdk1.8.0_112\jre
+may 02, 2017 11:47:03 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMACIÓN: JVM Version:           1.8.0_112-b15
+may 02, 2017 11:47:03 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMACIÓN: JVM Vendor:            Oracle Corporation
+may 02, 2017 11:47:03 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMACIÓN: CATALINA_BASE:         C:\Users\Rosmerita\Desktop\TESIS\apache-tomcat-7.0.75
+may 02, 2017 11:47:03 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMACIÓN: CATALINA_HOME:         C:\Users\Rosmerita\Desktop\TESIS\apache-tomcat-7.0.75
+may 02, 2017 11:47:03 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMACIÓN: Command line argument: -Djava.util.logging.config.file=C:\Users\Rosmerita\Desktop\TESIS\apache-tomcat-7.0.75\conf\logging.properties
+may 02, 2017 11:47:03 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMACIÓN: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+may 02, 2017 11:47:03 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMACIÓN: Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|pc
+may 02, 2017 11:47:03 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMACIÓN: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+may 02, 2017 11:47:03 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMACIÓN: Command line argument: -Djava.endorsed.dirs=C:\Users\Rosmerita\Desktop\TESIS\apache-tomcat-7.0.75\endorsed
+may 02, 2017 11:47:03 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMACIÓN: Command line argument: -Dcatalina.base=C:\Users\Rosmerita\Desktop\TESIS\apache-tomcat-7.0.75
+may 02, 2017 11:47:03 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMACIÓN: Command line argument: -Dcatalina.home=C:\Users\Rosmerita\Desktop\TESIS\apache-tomcat-7.0.75
+may 02, 2017 11:47:03 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMACIÓN: Command line argument: -Djava.io.tmpdir=C:\Users\Rosmerita\Desktop\TESIS\apache-tomcat-7.0.75\temp
+may 02, 2017 11:47:03 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFORMACIÓN: La biblioteca nativa de Apache Tomcat basada en ARP que permite un rendimiento óptimo en entornos de desarrollo no ha sido hallada en java.library.path: C:\Program Files\Java\jdk1.8.0_112\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\MiKTeX 2.9\miktex\bin\x64;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MATLAB\R2013a\runtime\win64;C:\Program Files\MATLAB\R2013a\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\Rosmerita\Anaconda3;C:\Users\Rosmerita\Anaconda3\Scripts;C:\Users\Rosmerita\Anaconda3\Library\bin;C:\Users\Rosmerita\AppData\Local\atom\bin;C:\Users\Rosmerita\AppData\Roaming\npm;.
+may 02, 2017 11:47:04 PM org.apache.coyote.AbstractProtocol init
+INFORMACIÓN: Initializing ProtocolHandler ["http-bio-8080"]
+may 02, 2017 11:47:04 PM org.apache.coyote.AbstractProtocol init
+INFORMACIÓN: Initializing ProtocolHandler ["ajp-bio-8009"]
+may 02, 2017 11:47:04 PM org.apache.catalina.startup.Catalina load
+INFORMACIÓN: Initialization processed in 1156 ms
+may 02, 2017 11:47:04 PM org.apache.catalina.core.StandardService startInternal
+INFORMACIÓN: Arrancando servicio Catalina
+may 02, 2017 11:47:04 PM org.apache.catalina.core.StandardEngine startInternal
+INFORMACIÓN: Starting Servlet Engine: Apache Tomcat/7.0.75
+may 02, 2017 11:47:04 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFORMACIÓN: Desplieque del descriptor de configuración C:\Users\Rosmerita\Desktop\TESIS\apache-tomcat-7.0.75\conf\Catalina\localhost\appdel.xml
+may 02, 2017 11:47:05 PM org.apache.catalina.startup.TldConfig execute
+INFORMACIÓN: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+may 02, 2017 11:47:05 PM org.apache.catalina.util.SessionIdGeneratorBase createSecureRandom
+INFORMACIÓN: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [160] milliseconds.
+may 02, 2017 11:47:06 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFORMACIÓN: Deployment of configuration descriptor C:\Users\Rosmerita\Desktop\TESIS\apache-tomcat-7.0.75\conf\Catalina\localhost\appdel.xml has finished in 1.676 ms
+may 02, 2017 11:47:06 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Despliegue del directorio C:\Users\Rosmerita\Desktop\TESIS\apache-tomcat-7.0.75\webapps\docs de la aplicación web
+may 02, 2017 11:47:06 PM org.apache.catalina.startup.TldConfig execute
+INFORMACIÓN: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+may 02, 2017 11:47:06 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Deployment of web application directory C:\Users\Rosmerita\Desktop\TESIS\apache-tomcat-7.0.75\webapps\docs has finished in 140 ms
+may 02, 2017 11:47:06 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Despliegue del directorio C:\Users\Rosmerita\Desktop\TESIS\apache-tomcat-7.0.75\webapps\examples de la aplicación web
+may 02, 2017 11:47:07 PM org.apache.catalina.startup.TldConfig execute
+INFORMACIÓN: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+may 02, 2017 11:47:07 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Deployment of web application directory C:\Users\Rosmerita\Desktop\TESIS\apache-tomcat-7.0.75\webapps\examples has finished in 1.196 ms
+may 02, 2017 11:47:07 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Despliegue del directorio C:\Users\Rosmerita\Desktop\TESIS\apache-tomcat-7.0.75\webapps\host-manager de la aplicación web
+may 02, 2017 11:47:07 PM org.apache.catalina.startup.TldConfig execute
+INFORMACIÓN: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+may 02, 2017 11:47:07 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Deployment of web application directory C:\Users\Rosmerita\Desktop\TESIS\apache-tomcat-7.0.75\webapps\host-manager has finished in 111 ms
+may 02, 2017 11:47:07 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Despliegue del directorio C:\Users\Rosmerita\Desktop\TESIS\apache-tomcat-7.0.75\webapps\manager de la aplicación web
+may 02, 2017 11:47:07 PM org.apache.catalina.startup.TldConfig execute
+INFORMACIÓN: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+may 02, 2017 11:47:07 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Deployment of web application directory C:\Users\Rosmerita\Desktop\TESIS\apache-tomcat-7.0.75\webapps\manager has finished in 97 ms
+may 02, 2017 11:47:07 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Despliegue del directorio C:\Users\Rosmerita\Desktop\TESIS\apache-tomcat-7.0.75\webapps\ROOT de la aplicación web
+may 02, 2017 11:47:07 PM org.apache.catalina.startup.TldConfig execute
+INFORMACIÓN: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+may 02, 2017 11:47:07 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Deployment of web application directory C:\Users\Rosmerita\Desktop\TESIS\apache-tomcat-7.0.75\webapps\ROOT has finished in 100 ms
+may 02, 2017 11:47:07 PM org.apache.coyote.AbstractProtocol start
+INFORMACIÓN: Starting ProtocolHandler ["http-bio-8080"]
+may 02, 2017 11:47:07 PM org.apache.coyote.AbstractProtocol start
+INFORMACIÓN: Starting ProtocolHandler ["ajp-bio-8009"]
+may 02, 2017 11:47:07 PM org.apache.catalina.startup.Catalina start
+INFORMACIÓN: Server startup in 3437 ms
